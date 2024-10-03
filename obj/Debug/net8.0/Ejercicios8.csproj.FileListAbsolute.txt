@@ -1,0 +1,14 @@
+C:\Users\UPN\Downloads\Ejercicios8\bin\Debug\net8.0\Ejercicios8.exe
+C:\Users\UPN\Downloads\Ejercicios8\bin\Debug\net8.0\Ejercicios8.deps.json
+C:\Users\UPN\Downloads\Ejercicios8\bin\Debug\net8.0\Ejercicios8.runtimeconfig.json
+C:\Users\UPN\Downloads\Ejercicios8\bin\Debug\net8.0\Ejercicios8.dll
+C:\Users\UPN\Downloads\Ejercicios8\bin\Debug\net8.0\Ejercicios8.pdb
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\Ejercicios8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\Ejercicios8.AssemblyInfoInputs.cache
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\Ejercicios8.AssemblyInfo.cs
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\Ejercicios8.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\Ejercicios8.dll
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\refint\Ejercicios8.dll
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\Ejercicios8.pdb
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\Ejercicios8.genruntimeconfig.cache
+C:\Users\UPN\Downloads\Ejercicios8\obj\Debug\net8.0\ref\Ejercicios8.dll
